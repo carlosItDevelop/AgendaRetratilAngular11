@@ -1,0 +1,70 @@
+{
+    "paciente": [{
+            "id": 1,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 2,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 3,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 4,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 5,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 6,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 7,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 8,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 9,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        },
+        {
+            "id": 10,
+            "nome": "Elemar Jr.",
+            "estado": "Grave"
+        }
+    ],
+    "estadoPaciente": [{
+            "id": 1,
+            "estado": "Grave"
+        },
+        {
+            "id": 2,
+            "estado": "Em Observação"
+        },
+        {
+            "id": 3,
+            "estado": "Crítico"
+        },
+        {
+            "id": 4,
+            "estado": "Estável"
+        }
+    ]
+}
